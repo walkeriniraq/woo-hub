@@ -1,3 +1,11 @@
+# WOO HUB
+
+This is a project that displays local Portland events relating to somatic movement, yoga, etc. Since I am a software engineer with 25+ years of experience, the first thing I did was find an existing site that is very close to what I wanted and then copy it. Thanks so much, Shift calendar!
+
+This is just getting started, everything below this is the original shift docs.
+
+---
+
 # Overview
 
 The purpose of the Shift/Pedalpalooza Calendar is to empower citizens to create and view bike events and to spread bike fun.
